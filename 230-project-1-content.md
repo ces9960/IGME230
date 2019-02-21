@@ -36,5 +36,7 @@ Answering a question
 
 # About the Developer
 Name: Cullen Sullivan
+
 Major/Year: Game Design and Development, 2nd Year
+
 Skills: Programming (C#), Web Development (HTML, CSS)

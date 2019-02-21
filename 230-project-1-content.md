@@ -27,9 +27,11 @@ In addition to the usual strategies present in most RPGs, where the player has t
 # Mockup Images
 
 Normal gameplay screen
+
 ![Gameplay](https://user-images.githubusercontent.com/31457912/53202950-cd5a0800-35f5-11e9-8b6f-44c50b85c880.png)
 
 Answering a question
+
 ![Answering a question](https://user-images.githubusercontent.com/31457912/53203113-48bbb980-35f6-11e9-9fed-0f2d400a841e.png)
 
 # About the Developer
